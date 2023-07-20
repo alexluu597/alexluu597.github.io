@@ -4,6 +4,6 @@ title: "About Me"
 permalink: /about/
 ---
 
-Hello! I'm Game Developer, an award-winning game developer who can both program and design games. As you can see from my impressive portfolio, I've worked on lots of different games!
+Hello! I am a Nait graduate and Game Developer/Programmer. I have made games both for my school projects and as a hobby. 
 
-If you're interested in what I can offer your company, please contact me!
+I would be happy to work with you!
