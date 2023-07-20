@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Newest Game"
-summary: "Lead Programmer and Designer"
+title:  "Space Fighters"
+summary: "Game Developer"
 date:   2022-10-09 15:39:40
 preview: /assets/postpreview.png
 ---
