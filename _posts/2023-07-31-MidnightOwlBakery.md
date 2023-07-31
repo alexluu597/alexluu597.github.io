@@ -3,10 +3,10 @@ layout: post
 title:  "Midnight Owl Bakery"
 summary: "Game Programmer"
 date:   2023-07-31
-preview: /assets/SpaceFightersPostPreview.png
+preview: /assets/MidnightOwlBakeryPostPreview.png
 ---
 
-![Space Fighters](/assets/SpaceFighters.png)
+![Midnight Owl Bakery](/assets/MidnightOwlBakery.png)
 
-This was my first personal project after I finished the first year of my Nait program. This was a somewhat simplistic game, which is flappy bird but in space, but I've learned a lot from it. 
+This was my first big school project and my first time working in a team. 
 
